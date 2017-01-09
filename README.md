@@ -1,7 +1,7 @@
 # Property Finder
 Simple API consumption application using Vanilla JS
 
-#### Usage
+### Usage
 To view this repository on your local machine, download and install node
 
 1. Fork and clone this repository.
@@ -9,7 +9,7 @@ To view this repository on your local machine, download and install node
 3. In your terminal, navigate to the app directory and type node server.js.
 4. In your browser, navigate to localhost:8000.
 
-#### Contributing
+### Contributing
 This is a time optimized and minimal to NO JavaScript library implementation.
 Open to suggestion efficiency and best practice critique.
 
