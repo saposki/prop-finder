@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/saposki/prop-finder.gitv#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "bootstrap.native": "^1.1.0",
+    "express": "^4.14.0",
+    "less": "^2.7.2",
+    "requirejs": "^2.3.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "less": "^2.7.2"
   }
 }
